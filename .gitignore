@@ -1,0 +1,10 @@
+__pycache__/
+   *.pyc
+   .env
+   .DS_Store
+
+   tram7-analyzer/data/
+   tram7-analyzer/charts/
+
+   physio-scraper/*.sqlite
+   physio-scraper/*.xlsx
